@@ -3,7 +3,7 @@
 ## Commands: We have used in Our Video
 
 
-$ wget https://Bucket-name.s3.Region-identifier.amazonaws.com/latest/install
+$ wget https://docs.aws.amazon.com/codedeploy/latest/userguide/resource-kit.html
 
 
 ##### Next up, we need to change the permission on the install file we will get after running the command above.
